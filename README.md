@@ -2,7 +2,7 @@
 
 A collection of real-world desktop support, identity management, and troubleshooting runbooks documented during my work as an IT Technician / Desktop Support engineer, generalized for public sharing.
 
-**Author:** Tichaona Collins Gora
+**Author:** Collins Gora
 **Background:** Self-taught IT professional, no formal degree. Certified in CompTIA Security+, Network+, AZ-900, SC-900, MS-900, and Microsoft Applied Skills (AD DS). Currently pursuing AZ-104 → AZ-500 → SC-200 on the path to becoming a Cloud Security Engineer.
 
 ## Why this repo exists
